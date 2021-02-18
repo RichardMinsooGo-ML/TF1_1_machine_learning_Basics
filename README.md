@@ -19,3 +19,13 @@ https://github.com/RichardMinsooGo-RL-Single-agent
 https://github.com/RichardMinsooGo-RL-Multi-agent
 : This new repository is for Reinforcement Learning for Multi Agents.
 
+
+
+|   |Backbone   | Detector   |
+|---|---|---|
+|**BoF**   |[x] Dropblock <br> [x] Random rescale, rotation (global) <br> [x] Mosaic/Cutout augmentation|[x] Cross mini-Batch Normalization <br>[x] Dropblock <br> [x] Random training shapes <br>   |
+|**BoS**   |[x] Mish activation <br> [x] Cross-stage partial connections (CSP) <br> [x] Multi-input weighted residual connections (MiWRC)   |[x] Mish activation <br> [x] SPP-block <br> [x] SAM-block <br> [x] PAN path-aggregation block <br>|
+
+
+
+
